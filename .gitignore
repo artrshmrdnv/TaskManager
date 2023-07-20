@@ -1,2 +1,1 @@
-игнориовать __pycache__
-task_manager/__pycache__/
+task_manager/__pycache__/*
